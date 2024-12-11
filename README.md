@@ -1,6 +1,2 @@
-- 🔭 I’m from the coffee-cocaine land (🇨🇴)
-- 🌱 I’m currently learning fullstack development
-- 🤔 I’m looking for help about choosing javascript or python
-- 📫 How to reach me: discord zulu#7327
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like to listen to ol' music (30's to 70's)
+## What is up with this account?
+> This account has been existing since a couple of years, but i haven't used it much; i'll update it when i have something in development, something cool to share or something public to contribute.
